@@ -1,0 +1,5 @@
+D:\University\Internship\Serial Terminal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\University\Internship\Serial Terminal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\University\Internship\Serial Terminal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\University\Internship\Serial Terminal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\University\Internship\Serial Terminal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

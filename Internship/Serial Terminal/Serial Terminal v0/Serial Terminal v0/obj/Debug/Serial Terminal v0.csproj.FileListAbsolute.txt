@@ -1,0 +1,12 @@
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\bin\Debug\Serial Terminal v0.exe.config
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\bin\Debug\Serial Terminal v0.exe.manifest
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\bin\Debug\Serial Terminal v0.application
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\bin\Debug\Serial Terminal v0.exe
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\bin\Debug\Serial Terminal v0.pdb
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial_Terminal_v0.Form1.resources
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial_Terminal_v0.Properties.Resources.resources
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial Terminal v0.csproj.GenerateResource.Cache
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial Terminal v0.exe.manifest
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial Terminal v0.application
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial Terminal v0.exe
+D:\University\Internship\Serial Terminal\Serial Terminal v0\Serial Terminal v0\obj\Debug\Serial Terminal v0.pdb
